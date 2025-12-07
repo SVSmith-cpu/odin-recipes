@@ -1,0 +1,32 @@
+body {
+  background: #afa0a0;
+  font-family: sans-serif;
+  color: #ac6646;
+}
+
+.area {
+    background-color: #f7e1d3;
+    padding: 10px;
+}
+
+.title {
+    color: rgb(247, 117, 11);
+    font-size: 32px;
+    padding: 20px 10px;
+    margin: 20px;
+}
+
+.recipe {
+    margin: 10px;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+.bott {
+    background-color: #f7e1d3;
+    color: rgb(247, 117, 11);
+    font-size: 12px;
+    padding: 10px;
+    margin-top: 10px;
+    
+}
